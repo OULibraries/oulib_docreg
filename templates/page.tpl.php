@@ -270,19 +270,17 @@
 
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-5">
 
                     <span style="width: 50%; float: left;">
 
                         <ul>
 
-                            <li><a href="/contact" title="Contact Us">Contact Us</a></li>
+                            <li><a href="/content/contact-us" title="Contact Us">Contact Us</a></li>
 
-                            <li><a href="/aboutsite" title="About This Site">About This Site</a></li>
+                            <li><a href="/about" title="About This Site">About This Site</a></li>
 
                             <li><a href="http://www.ou.edu/publicaffairs/WebPolicies/accessstatement.html" title="Accessibility" target="_blank">Accessibility</a></li>
-							
-							<li><a href="http://libraries.ou.edu/legacy" title="Accessibility" target="_blank">Legacy Site</a></li>
 
                         </ul>
 
@@ -310,7 +308,7 @@
 
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-4">
 
                     <div class="social">
 
@@ -330,9 +328,6 @@
 
                 </div>
 				
-				<div class="col-md-2">
-				<div class="anniversary-logo"><a href="http://www.ou.edu/liveon.html" target="_blank"><img src="<?php print $GLOBALS['base_url']."/".path_to_theme() ?>/img/125_Years_Campaign_Logo_Final_white_small.png" target="_blank" alt="125 anniversary logo"></a></div>
-				</div>
 
             </div>
 
