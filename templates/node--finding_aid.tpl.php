@@ -89,6 +89,8 @@
 	<hr>
 	<strong>Description</strong>
 	<?php print render($content['field_finding_aid_description']); ?>
+	<p>&nbsp;</p>
+	<?php print render($content['field_meta_data']); ?>
 	<hr>
 	<button class="btn btn-default active" type="submit"><?php print render($content['field_file_upload']); ?></button>
 	
