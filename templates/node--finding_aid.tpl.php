@@ -90,8 +90,7 @@
 	<strong>Description</strong>
 	<?php print render($content['field_finding_aid_description']); ?>
 	<hr>
-	<strong> Download File</strong>
-	<?php print render($content['field_file_upload']); ?>
+	<button class="btn btn-default active" type="submit"><?php print render($content['field_file_upload']); ?></button>
 	
 	
 	</div>
