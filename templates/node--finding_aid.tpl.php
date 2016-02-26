@@ -92,7 +92,7 @@
 	<p>&nbsp;</p>
 	<?php print render($content['field_meta_data']); ?>
 	<hr>
-	<button class="btn btn-default active" type="submit"><?php print render($content['field_file_upload']); ?></button>
+	<div class="button-findingaid"><?php print render($content['field_file_upload']); ?></div>
 	
 	
 	</div>
